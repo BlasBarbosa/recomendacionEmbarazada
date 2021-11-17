@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background: rgb(243, 123, 193);
+
+}
+
+.imagen {
+    height: auto;
+    display: flex;
+    text-align: center;
+    width: 100%;  
+}
+
+.contenedor{
+    width: 98%;
+    max-width: 1700px;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+
+.bienvenida {
+    width: 52%;
+    display: flex;
+    position: absolute;
+    margin-bottom: 0;
+    margin-top: 10%;
+    margin-left: 0%;
+    color: cornsilk;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.agradezco{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.intro{
+    color: blueviolet;
+    text-align: justify;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 30px;
+}
+
+.recomendaciones {
+    text-align: center;
+    margin-bottom: 50px;
+    background:#fff;
+    color: brown;
+}
+
+.numeros {
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: justify;
+}
+
+p{
+    margin-bottom: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.b {
+    color: #ffff;
+}
+
